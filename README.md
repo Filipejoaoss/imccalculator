@@ -2,7 +2,7 @@
 
 Small front-end project that calculates IMC.
 
-The Framework used for this project was React + Vite.
+The project used React as the JavaScript library and Vite as the development tooling.
 
 ## Setup and Configuration
 
