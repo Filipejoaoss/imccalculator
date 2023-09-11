@@ -1,0 +1,19 @@
+button {
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    background-color: #F44236;
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+    cursor: pointer;
+    opacity: 0.9;
+    flex: 1;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+#calc-btn {
+    background-color: #444;
+}
