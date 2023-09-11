@@ -1,4 +1,4 @@
-# IMC Calculator React + Vite
+# IMC Calculator
 
 Small front-end project that calculates IMC.
 
